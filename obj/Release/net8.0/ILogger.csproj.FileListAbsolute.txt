@@ -1,0 +1,12 @@
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\bin\Release\net8.0\ILogger.deps.json
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\bin\Release\net8.0\ILogger.dll
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\bin\Release\net8.0\ILogger.pdb
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.csproj.AssemblyReference.cache
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.AssemblyInfoInputs.cache
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.AssemblyInfo.cs
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.csproj.CoreCompileInputs.cache
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.dll
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\refint\ILogger.dll
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ILogger.pdb
+E:\Users\Ibrahim\Desktop\REPOS\ILogger\obj\Release\net8.0\ref\ILogger.dll

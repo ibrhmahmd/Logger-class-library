@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1jc+RLI7S8=",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Ibrahim\\Desktop\\Tasks\\ILogger\\ILogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrahim\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
